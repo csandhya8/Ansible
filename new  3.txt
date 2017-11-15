@@ -1,0 +1,12 @@
+[DNSservers]
+ec2-54-210-36-212.compute-1.amazonaws.com
+ec2-52-73-208-192.compute-1.amazonaws.com
+
+[publicservers]
+54.210.36.212
+52.73.208.192
+
+[privateservers]
+172.31.25.48
+172.31.23.42
+
